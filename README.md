@@ -25,7 +25,7 @@ This project detects fake news headlines using natural language processing and m
    git clone https://github.com/yourusername/fake-news-detection.git
 2. Install required dependencies:
    ```bash
-    pip install tensorflow keras gensim scikit-learn gradio
+   pip install tensorflow keras gensim scikit-learn gradio
 3. Run the application:
   ```bash
-    python app.py
+   python app_gradio.py
